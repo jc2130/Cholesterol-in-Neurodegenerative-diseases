@@ -1,0 +1,16 @@
+blockdiag==2.0.1
+cycler==0.10.0
+funcparserlib==0.3.6
+kiwisolver==1.2.0
+linecache2==1.0.0
+matplotlib==3.2.2
+numpy==1.19.0
+pandas==1.0.5
+Pillow==7.2.0
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2020.1
+six==1.15.0
+traceback2==1.4.0
+unittest2==1.1.0
+webcolors==1.11.1
