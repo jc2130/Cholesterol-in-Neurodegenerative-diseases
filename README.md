@@ -5,7 +5,7 @@
 ## Getting Started
 Download and Install Anaconda (https://www.anaconda.com/products/individual). With Anaconda, you can run Spyder, a texteditor to edit and run python code. With Spyder:
 
-1) Open HFPN_2.0__model.py in Folder HFPN-Stochastic-Version
+1) Open HFPN_2.0__model.py in Folder HFPN-Ageing-Version
 2) Run File (F5 or green play button on top panel)
 3) The GUI will open and can be used
 4) If closing the GUI does not work, use the "safe exit" button in the "run HFPN" panel. If this also does not work, use task manager to close the application
